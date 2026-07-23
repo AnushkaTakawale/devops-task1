@@ -1,0 +1,21 @@
+    1  git init
+    2  ls
+    3  git add.
+    4  git add
+    5  git add.
+    6  git add .
+    7  git status
+    8  git commit -m "Add initial project file"
+    9  git branch -M main
+   10  git remote add origin https://github.com/AnushkaTakawale/devops-task1.git
+   11  git push -u origin name 
+   12  git status
+   13  git add .
+   14  git commit -m "Add initial project file"
+   15  git branch 
+   16  git push -u origin main 
+   17  git --version 
+   18  git config --list
+   19  git remote -v
+   20  git log 
+   21  history > git_history.txt
