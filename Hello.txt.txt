@@ -3,3 +3,5 @@ This is my first DevOps assignment.
 Update from Developer 1
 Update from Developer 2
 Change from Clone 2
+Change from Clone 3
+
